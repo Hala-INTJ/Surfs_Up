@@ -2,6 +2,8 @@
 
 ## Overview of Surfs_Up Analysis
 This analysis highlights the temperature details for the month of June and Decemeber in Hawaii. The conclusions will assist in determining whether an ice cream shop business is sustainable year-round. 
+
+The Jupyter notebook used for the analysis: [SurfsUp_Challenge.ipynb](https://github.com/Hala-INTJ/Surfs_Up/blob/main/SurfsUp_Challenge.ipynb)
 ## Surfs_Up Analysis Results
 
 Three significant differences:

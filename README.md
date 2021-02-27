@@ -13,3 +13,8 @@ Three significant differences:
 | :---: | :---: |
 | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Temps.png) | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/December%20Temps.png) |
 ## Surfs_Up Analysis Summary
+
+
+| June Precipitation Summary Statistics | December Precipitation Summary Statistics |
+| :---: | :---: |
+| ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Precipitation.png) | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/Dec%20Precipitation.png) |

@@ -20,7 +20,7 @@ Based on the above temperature data analysis, one may conclude that business wou
 | :---: | :---: |
 | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Precipitation.png) | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/Dec%20Precipitation.png) |
 
-Since this doesn't given enough information, further analysis was done to determine how many days in each month there was rainfall more than the 75th percentile.
+The precipitation analysis reveals a large difference between the 75th percentile and the maximum values. This indicates that on most days with precipitation, it is light. Further analysis was done focusing on the number of days with 'heavy' precipitation -- those above the 75th percentile.
 
 |  | June  | | December  | |
 | :---: | :---: | :---: | :---: | :---: |

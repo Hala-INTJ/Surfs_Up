@@ -8,6 +8,11 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 <center>
 
 ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Temps.png) 
+</center>
+
+
+<center>
+
 ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/December%20Temps.png)
 </center>
 

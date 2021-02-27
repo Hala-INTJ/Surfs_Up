@@ -5,6 +5,8 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Surfs_Up Analysis Results
 
-| ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Temps.png) | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/December%20Temps.png)|
+<center>
 
+![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/June%20Temps.png) | ![](https://github.com/Hala-INTJ/Surfs_Up/blob/main/December%20Temps.png)
+</center>
 ## Surfs_Up Analysis Summary
